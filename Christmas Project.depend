@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642318734 source:c:\users\pacto\documents\programming projects\christmas project files\christmas project\main.c
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
